@@ -18,5 +18,4 @@ Fixed, Hinge y Spring Joints hechos en una misma escena.
 
 
 
-La build esta dentro de la carpeta
-
+La build esta incluida
