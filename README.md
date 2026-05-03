@@ -16,3 +16,7 @@ Fixed, Hinge y Spring Joints hechos en una misma escena.
 
 * En Spring la bola hace el efecto de una bola Bungee, con un Damper de 1.5 para que tenga rebote pero no se pase.
 
+
+
+La build esta dentro de la carpeta
+
